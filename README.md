@@ -1,5 +1,5 @@
-# Hoxhunt - Summer Hunter - Data Scientist Application - URL Task
-My Application for Hoxhunt, Data Scientist - Summer Hunter URL-task
+# Data Scientist Application - URL Task
+My Application for Data Scientist - URL-task
 
 Three files are included.
 
